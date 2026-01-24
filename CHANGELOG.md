@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.3 (2026-01-24)
+
+### Bug Fixes
+
+- Debug run
+  ([`c608dba`](https://github.com/lilfetz22/psr-test-sandbox/commit/c608dbad998651895aa930d8cd439ff01bcbe98b))
+
+
 ## v1.0.2 (2026-01-24)
 
 ### Bug Fixes
