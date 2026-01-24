@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.1 (2026-01-24)
+
+### Bug Fixes
+
+- Testing announcement path
+  ([`777a714`](https://github.com/lilfetz22/psr-test-sandbox/commit/777a714f30a28e8b949f553c202a99c9598121a0))
+
+
 ## v1.0.0 (2026-01-24)
 
 ### Bug Fixes
