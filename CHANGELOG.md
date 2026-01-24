@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.4 (2026-01-24)
+
+### Bug Fixes
+
+- Syntax check for footer
+  ([`16e5cca`](https://github.com/lilfetz22/psr-test-sandbox/commit/16e5ccad7e60234d8c460ee3eb3ad2715af37e50))
+
+
 ## v1.0.3 (2026-01-24)
 
 ### Bug Fixes

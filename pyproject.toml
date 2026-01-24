@@ -1,4 +1,4 @@
-version = "1.0.3"
+version = "1.0.4"
 
 [semantic_release]
 version_variables = ["pyproject.toml:version"] 
