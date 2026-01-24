@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.5 (2026-01-24)
+
+### Bug Fixes
+
+- Resolve pr comment bug
+  ([`b0ad79b`](https://github.com/lilfetz22/psr-test-sandbox/commit/b0ad79bf688e8a36ad57a89b228f6d9527701a24))
+
+
 ## v1.0.4 (2026-01-24)
 
 ### Bug Fixes
