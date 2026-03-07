@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.1.0 (2026-03-07)
+
+### Features
+
+- Add a new widget
+  ([`9b04a56`](https://github.com/lilfetz22/psr-test-sandbox/commit/9b04a5693d936babd801f7c5a6a19e76c39ee706))
+
+
 ## v1.0.5 (2026-01-24)
 
 ### Bug Fixes
