@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.1.1 (2026-03-07)
+
+### Bug Fixes
+
+- Set up package build system for dist uploads
+  ([`2484c22`](https://github.com/lilfetz22/psr-test-sandbox/commit/2484c22a477f24ca39e63001613bf128285b4764))
+
+
 ## v1.1.0 (2026-03-07)
 
 ### Features
