@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.2.0 (2026-03-07)
+
+### Features
+
+- Add dashboard widget rendering
+  ([`99efcc0`](https://github.com/lilfetz22/psr-test-sandbox/commit/99efcc0b1d80559916f78f88971691bf0206b923))
+
+
 ## v1.1.1 (2026-03-07)
 
 ### Bug Fixes
